@@ -1,2 +1,2 @@
 # Define the variable
-board = new array[" "," "," "," "," "," "," "," "," ",]
+board = new array[" "," "," "," "," "," "," "," "," "]
